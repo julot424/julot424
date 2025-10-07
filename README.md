@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on a serious game <br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning java, c#, SQL, php, html, css<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+🔭 Currently working on cool software projects and small apps  
+👯 Open to collaborate on creative programming challenges  
+🤝 Looking for guidance on algorithms, optimization, and best practices  
+🌱 Learning & experimenting with **Java, C#, SQL, PHP, HTML, CSS**, and **design patterns**  
+💬 Ask me about programming, web dev, and building useful projects  
+⚡ Fun fact: I love turning ideas into code and discovering new tech along the way 🚀
+
 
 
 ## 🌐 Socials:
