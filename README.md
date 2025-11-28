@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Currently working on cool software projects and small apps  
+🔭 Currently working on Beyond the ice, my cool serious game 
 👯 Open to collaborate on creative programming challenges  
 🤝 Looking for guidance on algorithms, optimization, and best practices  
 🌱 Learning & experimenting with **Java, C#, SQL, PHP, HTML, CSS**, and **design patterns**  
